@@ -1,18 +1,18 @@
 # Hi, :wave: there I'm [Ankit](https://www.linkedin.com/in/ankit-ved-ashm/)
 
-Currently I'm pursuing my **B.Tech** from *SRMIST, Chennai*. Hopefully I've reached the *Final Year* of the course and looking for Job Opprtunities.
+Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. :school: Hopefully I've reached the *Final Year* of the course and looking for Job Opprtunities.
 
-## What I do
+## What I do :point_down:
 
 - JAVA Programming [Pretty Good](https://www.hackerrank.com/RA1711020010042)
 - Competitive Programming [Leetcode](https://leetcode.com/ashm_/) [HackerRank](https://www.hackerrank.com/RA1711020010042) [Codeforces](https://codeforces.com/profile/ashm_) [Codechef](https://www.codechef.com/users/ashm_)
 - I like learning new technical skills
 
-## Technical Skills
+## Technical Skills :computer:
 
 # Practicing
 
-  - JAVA (basic)
+  - JAVA (basic) 
   - Python (basic)
   - Web-development(HTML,CSS,JS)
   
@@ -21,3 +21,5 @@ Currently I'm pursuing my **B.Tech** from *SRMIST, Chennai*. Hopefully I've reac
 - Netbeans
 - Android Studio
 - VSCode 
+
+# Connect with me at 
