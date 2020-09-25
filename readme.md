@@ -10,13 +10,13 @@ Currently I'm pursuing my **B.Tech** from *SRMIST, Chennai*. Hopefully I've reac
 
 ## Technical Skills
 
-# Known
+# Practicing
 
-  - JAVA
-  - C++
-  - Python
+  - JAVA (basic)
+  - Python (basic)
+  - Web-development(HTML,CSS,JS)
   
-## Tools/IDEs
+## Tools/IDEs Used
 - IntelliJ
 - Netbeans
 - Android Studio
