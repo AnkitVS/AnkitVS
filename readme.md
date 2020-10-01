@@ -23,3 +23,4 @@ Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. :sch
 - VSCode 
 
 # Connect with me at 
+[LinkedIn](https://www.linkedin.com/in/ankit-ved-ashm/)
