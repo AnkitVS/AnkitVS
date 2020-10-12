@@ -8,19 +8,18 @@ Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. :sch
 - Competitive Programming [Leetcode](https://leetcode.com/ashm_/) [HackerRank](https://www.hackerrank.com/RA1711020010042) [Codeforces](https://codeforces.com/profile/ashm_) [Codechef](https://www.codechef.com/users/ashm_)
 - I like learning new technical skills
 
-## Technical Skills :computer:
+# Technical Skills :computer:
 
-# Practicing
-
+## Practicing
   - JAVA (basic) 
   - Python (basic)
   - Web-development(HTML,CSS,JS)
   
 ## Tools/IDEs Used
-- IntelliJ
-- Netbeans
-- Android Studio
-- VSCode 
+  - IntelliJ
+  - Netbeans
+  - Android Studio
+  - VSCode 
 
 # Connect with me at 
 [LinkedIn](https://www.linkedin.com/in/ankit-ved-ashm/)
