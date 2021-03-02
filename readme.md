@@ -11,15 +11,17 @@ Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. :sch
 # Technical Skills :computer:
 
 ## Practicing
-  - JAVA (basic) 
-  - Python (basic)
+  - JAVA (core) 
   - Web-development(HTML,CSS,JS)
+  - .net Framework
+  - C#
   
 ## Tools/IDEs Used
   - IntelliJ
   - Netbeans
   - Android Studio
   - VSCode 
+  - Visual Studio
 
 # Connect with me at 
 [LinkedIn](https://www.linkedin.com/in/ankit-ved-ashm/)
