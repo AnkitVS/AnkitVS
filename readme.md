@@ -6,7 +6,8 @@ Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. Hope
 
 - JAVA Programming [Pretty Good](https://www.hackerrank.com/RA1711020010042)
 - Competitive Programming [Leetcode](https://leetcode.com/ashm_/) [HackerRank](https://www.hackerrank.com/RA1711020010042) [Codeforces](https://codeforces.com/profile/ashm_) [Codechef](https://www.codechef.com/users/ashm_)
-- I like learning new technical skills
+- WebDev (Java,C#,PHP) :book:
+- AppDev (C#) :book:
 
 # Technical Skills :computer:
 
