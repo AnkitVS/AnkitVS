@@ -11,16 +11,18 @@ Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. :sch
 # Technical Skills :computer:
 
 ## Practicing
-  - JAVA (core) 
+  - JAVA (Core) 
+  - JAVA (Advanced:Servlets,JSP) 
   - Web-development(HTML,CSS,JS)
-  - .net Framework
+  - .net Framework 
   - C#
   
 ## Tools/IDEs Used
   - IntelliJ
+  - Eclipse
+  - VSCode 
   - Netbeans
   - Android Studio
-  - VSCode 
   - Visual Studio
 
 # Connect with me at 
