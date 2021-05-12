@@ -1,6 +1,6 @@
 # Hi, :wave: there I'm [Ankit](https://www.linkedin.com/in/ankit-ved-ashm/)
 
-Currently I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. Hopefully I've reached the *Final Year*  with a lot of hardwork and a little bit of dedication. Open for Job Opprtunities.
+I'm pursuing my **B.Tech** :mortar_board: from *SRMIST, Chennai*. Hopefully I've reached the *Final Year*  with a lot of hardwork and a little bit of dedication. Open for Job Opprtunities.
 
 ## What I do :point_down:
 
