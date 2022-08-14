@@ -1,6 +1,6 @@
 # Hi, :wave: there I'm [Ankit](https://www.linkedin.com/in/ankit-ved-ashm/)
 
-I have done my **B.Tech** :mortar_board: from *SRMIST, Chennai*. Hopefully I've completed the *Final Year*  with a lot of hardwork and bit of dedication. Open for Job Opprtunities.
+I have done my **B.Tech** :mortar_board: from *SRMIST, Chennai*. Hopefully I've completed the *Final Year*  with a lot of hardwork and bit of dedication. Currently, working in Capgemeini as Senior Software Engineer(QA Manual Tester)
 
 ## What I do :point_down:
 
