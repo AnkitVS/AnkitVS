@@ -28,4 +28,4 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai* I tra
   - Visual Studio
 
 # Connect with me at 
-[LinkedIn](https://www.linkedin.com/in/ankit-ved-ashm/)
+[LinkedIn](https://www.linkedin.com/in/ankit-ved/)
