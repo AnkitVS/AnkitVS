@@ -5,7 +5,7 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai* I tra
 ## What I do :point_down:
 
 - Manual Tester - 3+ years of experience
-- JAVA Programming [Pretty Good](https://www.hackerrank.com/RA1711020010042)
+- Java Programming [Pretty Good](https://www.hackerrank.com/RA1711020010042)
 - Competitive Programming [Leetcode](https://leetcode.com/ashm_/) [HackerRank](https://www.hackerrank.com/RA1711020010042) [Codeforces](https://codeforces.com/profile/ashm_) [Codechef](https://www.codechef.com/users/ashm_)
 - WebDev (Java,C#,PHP) :book:
 - AppDev (C#) :book:
@@ -13,7 +13,7 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai* I tra
 # Technical Skills :computer:
 
 ## Practicing
-  - JAVA (Core + Advanced) 
+  - Java (Core + Advanced) 
   - Web-development(HTML,CSS,JS)
 
 ## Wants to learn
