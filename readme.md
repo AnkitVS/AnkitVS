@@ -14,10 +14,10 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai* I tra
 
 ## Practicing
   - JAVA (Core) 
-  - JAVA (Advanced:Servlets,JSP) 
   - Web-development(HTML,CSS,JS)
-  - .net Framework 
-  - C#
+
+## Wants to learn
+  - Cyber Security
   
 ## Tools/IDEs Used
   - IntelliJ
