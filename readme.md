@@ -13,7 +13,7 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai* I tra
 # Technical Skills :computer:
 
 ## Practicing
-  - JAVA (Core) 
+  - JAVA (Core + Advanced) 
   - Web-development(HTML,CSS,JS)
 
 ## Wants to learn
