@@ -8,11 +8,14 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
 
 - **Manual Tester** - 3+ years of experience
 - **Java Programming** - [Pretty Good](https://www.hackerrank.com/RA1711020010042)
-- **Competitive Programming** - 
-  - [LeetCode](https://leetcode.com/anve_/)
-  - [HackerRank](https://www.hackerrank.com/RA1711020010042)
-  - [Codeforces](https://codeforces.com/profile/ashm_)
-  - [Codechef](https://www.codechef.com/users/ashm_)
+- **Competitive Programming** 
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anve_/)
+
+  [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-%231F8AC0?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/RA1711020010042)
+
+  [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-%231F8AC0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashm_)
+
 
 ## LeetCode Stats
 
