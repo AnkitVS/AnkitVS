@@ -45,7 +45,7 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Ved-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankit-ved-ashm/)
-[![Website](https://img.shields.io/badge/Website-Ankit_Ved-blue?style=flat&logo=google-chrome)](https://ankitve.dev)
+[![Website](https://img.shields.io/badge/Website-Ankit_Ved-blue?style=flat&logo=google-chrome)](https://ankitved.dev)
 
 
 
