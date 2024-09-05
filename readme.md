@@ -1,4 +1,4 @@
-# Hi, :wave: I'm [Ankit Ved](https://www.linkedin.com/in/ankit-ved-ashm/)
+# Hi, :wave: I'm [Ankit Ved](https://www.linkedin.com/in/ankit-ved/)
 
 After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I traded textbooks for test plans at Capgemini! Now, as an Associate QA Consultant, I'm ready to slay any bug (or code dragon!) that comes my way. Bring on the epic projects!
 
