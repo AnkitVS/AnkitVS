@@ -31,16 +31,18 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
 ### Wants to Learn
 - **Cyber Security**
 
-### Tools
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=30&style=for-the-badge)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30&style=for-the-badge)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&logoWidth=30&style=for-the-badge)
-![NetBeans](https://img.shields.io/badge/NetBeans-007CC1?logo=apache-netbeans&logoColor=white&logoWidth=30&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&logoWidth=30&style=for-the-badge)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&logoWidth=30&style=for-the-badge)
-
-### Languages
+### Languages and Frameworks
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" style="width: 40px;"/>
+
+### IDEs and Code Editors
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=30&style=for-the-badge)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white&logoWidth=30&style=for-the-badge)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59E?logo=notepad%2B%2B&logoColor=black&style=for-the-badge)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white&logoWidth=30&style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&logoWidth=30&style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&logoWidth=30&style=for-the-badge)
+![NetBeans](https://img.shields.io/badge/NetBeans-007CC1?logo=apache-netbeans&logoColor=white&logoWidth=30&style=for-the-badge)
+
 
 
 ## Connect with Me
