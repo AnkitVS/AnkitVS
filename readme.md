@@ -17,10 +17,6 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
   [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-%231F8AC0?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashm_)
 
 
-## LeetCode Stats
-
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=anve_&theme=dark&font=baloo&border_radius=5px)](https://leetcode.com/anve_/)
-
 
 ## Technical Skills :computer:
 
