@@ -24,6 +24,12 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
 
 ## Technical Skills :computer:
 
+### Professional Experience
+- **Manual Testing**
+- **Automation Testing**
+- **Postman API Testing**
+- **Selenium**
+
 ### Practicing
 - **Java (Core + Advanced)**
 - **Web Development (HTML, CSS, JS)**
@@ -32,7 +38,18 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
 - **Cyber Security**
 
 ### Languages and Frameworks
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" style="width: 40px;"/>
+<div style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" style="width: 40px;"/>
+  <img src="https://upload.vectorlogo.zone/logos/getpostman/images/4d1787f3-372d-4c9d-8ef8-01a0500c176d.svg" alt="Postman" style="width: 40px;"/>
+  <img src="https://upload.vectorlogo.zone/logos/selenium/images/0b8f8f40-04d9-4d46-89db-52bc5b8d7b6c.svg" alt="Selenium" style="width: 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" style="width: 40px;"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" style="width: 40px;"/>
+</div>
 
 ### IDEs and Code Editors
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=30&style=for-the-badge)
