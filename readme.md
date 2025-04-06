@@ -45,10 +45,11 @@ After endless nights conquering B.Tech :mortar_board: at *SRMIST, Chennai*, I tr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" style="width: 40px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" style="width: 40px;"/>
-  <img src="https://upload.vectorlogo.zone/logos/getpostman/images/4d1787f3-372d-4c9d-8ef8-01a0500c176d.svg" alt="Postman" style="width: 40px;"/>
-  <img src="https://upload.vectorlogo.zone/logos/selenium/images/0b8f8f40-04d9-4d46-89db-52bc5b8d7b6c.svg" alt="Selenium" style="width: 40px;"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" style="width: 40px;"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" style="width: 40px;"/>
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" alt="Postman" style="width: 40px;"/>
+  <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/common/images/selenium_logo_medium.png" alt="Selenium" style="width: 40px;"/>
 </div>
 
 ### IDEs and Code Editors
